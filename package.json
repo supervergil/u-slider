@@ -1,0 +1,17 @@
+{
+  "name": "u-slider",
+  "version": "1.0.0",
+  "description": "just a normal slider",
+  "author": {
+    "name": "supervergil",
+    "url": "https://www.zhangyangjun.com"
+  },
+  "main": "lib/u-slider.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supervergil/d3-metro.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
